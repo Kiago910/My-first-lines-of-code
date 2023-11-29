@@ -3,7 +3,7 @@
 **The addition file**
 allows one to: 
 
-1.input numbers and tells the person the type of file it is before it adds the two numbers
+1.input numbers and tells the person the type of file it is before `it adds the two numbers`
 
 '**The Data_types file**'
 gives information on:
