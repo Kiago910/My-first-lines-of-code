@@ -1,7 +1,9 @@
 # MY FIRST PROGRAM
 
 ## The addition file
+
 allows one to: 
+
 1.input numbers and tells the person the type of file it is before `it adds the two numbers`
 
 
