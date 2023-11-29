@@ -1,4 +1,4 @@
-#The addtion file
+# The addtion file
 allows one to:
 input numbers and tells the person the type of file it is before it adds the two numbers
 '**The Data_types file**'
