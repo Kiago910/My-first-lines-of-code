@@ -1,4 +1,4 @@
-word = "Holbertommn"
+word = "Holbertomn"
 word_first_3=word[:3]
 print(f"First 3 letters: {word_first_3}")
 

@@ -26,9 +26,7 @@ print("This is a list data types")
 print(["games", "cars", "football"])
 
 print("This is a set data type")
-se=set()
-se=(1,2,3,3)
-print(set(se))
+print("1,2,3,4")
 
 print("This is dictionary data type")
 print({'key': 'value'})
